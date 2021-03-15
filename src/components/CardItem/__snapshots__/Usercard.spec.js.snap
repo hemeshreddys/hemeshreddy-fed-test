@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardItem renders the CardItem 1`] = `
+<styled.div>
+  <img />
+  <div
+    className="users"
+  >
+    <h2 />
+    <p />
+    <p />
+  </div>
+</styled.div>
+`;
